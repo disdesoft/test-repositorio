@@ -1,0 +1,27 @@
+Planteamiento de la situación
+
+¡Se te acaba de presentar una súper oportunidad! La empresa Nuwebs está en busca de un desarrollador de software junior para unirse a su equipo de ingeniería, ofreciendo un sueldo de COP $4’500.000 mensuales por tiempo indefinido. Como es de esperar, muchos desarrolladores se quieren postular al único cargo disponible, por lo que, el CEO de Nuwebs, creó un reto que pone a prueba el conocimiento de lógica, algoritmia y experticia en el manejo de estructuras iterativas y estructuras condicionales, con el fin de escoger al mejor.
+
+Planteamiento del reto
+
+Dada la situación planteada, el CEO de Nuwebs, a través de un comunicado, reveló el reto:
+
+Su deber es realizar un pequeño programa que evalúe números enteros positivos con el fin de encontrar “combinaciones ganadoras”, dichas combinaciones están dadas por los números que sean múltiplos de 3 y múltiplos de 5 al mismo tiempo, cuando se encuentre una combinación ganadora, el programa debe imprimir GANADOR, sin embargo, cuando un número sea solo múltiplo de 3 el programa debe de imprimir CASI y cuando un número sea solo múltiplo de 5 debe de imprimir CERCA. A su vez, el programa debe permitir que un usuario ingrese el número de combinaciones ganadoras que el programa debe de encontrar.
+
+El programa debe de empezar a probar los números a partir del cero, siendo este número siempre una combinación ganadora.
+
+El programa no debe de terminar hasta encontrar el número de combinaciones ganadoras que el usuario especificó.
+
+Acciones de aprendizaje
+
+Analizar e identificar las variables que considere necesarias para la correcta ejecución del programa.
+Determinar el algoritmo correcto que permita imprimir los datos de salida solicitados.
+Solución del reto
+
+Escriba el código SIN DECORACIONES que cumpla los siguientes requisitos:
+
+Permitir a un usuario ingresar el número de combinaciones ganadoras que desee. El programa solo debe terminar cuando encuentre todas las combinaciones ganadoras especificadas.
+Imprimir cuando un número sea múltiplo de 3 la palabra CASI
+Imprimir cuando un número sea múltiplo de 5 la palabra CERCA
+Imprimir cuando un número sea múltiplo de 3 y 5, al mismo tiempo, la palabra GANADOR
+ Reto tema 3
